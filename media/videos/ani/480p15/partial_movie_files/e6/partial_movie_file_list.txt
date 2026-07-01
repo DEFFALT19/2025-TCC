@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/bernardo/python/FURG/labpython/media/videos/ani/480p15/partial_movie_files/e6/1185818338_3020282520_38226350.mp4'
+file 'file:C:/bernardo/python/FURG/labpython/media/videos/ani/480p15/partial_movie_files/e6/624642324_206138768_3640611778.mp4'
+file 'file:C:/bernardo/python/FURG/labpython/media/videos/ani/480p15/partial_movie_files/e6/624642324_1482247665_1075845451.mp4'
+file 'file:C:/bernardo/python/FURG/labpython/media/videos/ani/480p15/partial_movie_files/e6/624642324_2552855209_1866356029.mp4'
+file 'file:C:/bernardo/python/FURG/labpython/media/videos/ani/480p15/partial_movie_files/e6/624642324_4127587895_888171649.mp4'
+file 'file:C:/bernardo/python/FURG/labpython/media/videos/ani/480p15/partial_movie_files/e6/624642324_1038707267_2844790590.mp4'

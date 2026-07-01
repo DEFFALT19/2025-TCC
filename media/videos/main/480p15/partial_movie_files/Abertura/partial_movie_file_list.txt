@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/bernardo/python/FURG/labpython/media/videos/main/480p15/partial_movie_files/Abertura/1185818338_342657697_223132457.mp4'
+file 'file:C:/bernardo/python/FURG/labpython/media/videos/main/480p15/partial_movie_files/Abertura/624642324_2834709167_2749393824.mp4'
+file 'file:C:/bernardo/python/FURG/labpython/media/videos/main/480p15/partial_movie_files/Abertura/624642324_2296568526_2630203560.mp4'
+file 'file:C:/bernardo/python/FURG/labpython/media/videos/main/480p15/partial_movie_files/Abertura/624642324_4217992463_525645900.mp4'
+file 'file:C:/bernardo/python/FURG/labpython/media/videos/main/480p15/partial_movie_files/Abertura/624642324_392419014_4129151947.mp4'
+file 'file:C:/bernardo/python/FURG/labpython/media/videos/main/480p15/partial_movie_files/Abertura/624642324_4217992463_2374810387.mp4'
+file 'file:C:/bernardo/python/FURG/labpython/media/videos/main/480p15/partial_movie_files/Abertura/624642324_3403623953_1599099660.mp4'
+file 'file:C:/bernardo/python/FURG/labpython/media/videos/main/480p15/partial_movie_files/Abertura/624642324_1445027742_667518619.mp4'
+file 'file:C:/bernardo/python/FURG/labpython/media/videos/main/480p15/partial_movie_files/Abertura/624642324_2552855209_931125330.mp4'
+file 'file:C:/bernardo/python/FURG/labpython/media/videos/main/480p15/partial_movie_files/Abertura/624642324_1288497256_192819939.mp4'
+file 'file:C:/bernardo/python/FURG/labpython/media/videos/main/480p15/partial_movie_files/Abertura/624642324_4217992463_3984820505.mp4'
